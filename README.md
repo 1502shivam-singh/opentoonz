@@ -8,8 +8,8 @@
 ## What is OpenToonz?
 
 OpenToonz is a 2D animation software published by 
-[DWANGO](http://dwango.co.jp/english/). It is based on **Toonz Studio
-Ghibli Version**, originally developed in Italy by
+[DWANGO](http://dwango.co.jp/english/). It is based on <strong>Toonz Studio
+Ghibli Version</strong>, originally developed in Italy by
 [Digital Video, Inc.](http://www.toonz.com/), and customized by
 [Studio Ghibli](http://www.ghibli.jp/) over many years of production.
 
